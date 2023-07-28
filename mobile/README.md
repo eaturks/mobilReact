@@ -35,3 +35,5 @@ Veri Akışı Uygulamaları: Node.js, veri akışı ve işleme uygulamaları iç
 Komut Satırı Araçları: Node.js, komut satırı araçları ve betikler oluşturmak için de kullanılabilir. Yüksek seviyede veri işleme ve dosya yönetimi işlemleri için oldukça uygun bir seçenektir.
 
 ```
+
+![node](node.PNG)
