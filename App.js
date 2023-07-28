@@ -8,6 +8,18 @@ export default function App() {
       <Text>MERHABAYIN</Text>
       <Text>MERHABAYIN</Text>
       <Text>MERHABAYIN</Text>
+      <Text>hello wwworld!</Text>
+      <Text>MERHABAYIN</Text>
+      <Text>MERHABAYIN</Text>
+      <Text>MERHABAYIN</Text>
+      <Text>hello wwworld!</Text>
+      <Text>MERHABAYIN</Text>
+      <Text>MERHABAYIN</Text>
+      <Text>MERHABAYIN</Text>
+      <Text>hello wwworld!</Text>
+      <Text>MERHABAYIN</Text>
+      <Text>MERHABAYIN</Text>
+      <Text>MERHABAYIN</Text>
       <StatusBar style="cover" />
       
     </View>
