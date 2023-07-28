@@ -36,5 +36,5 @@ Komut Satırı Araçları: Node.js, komut satırı araçları ve betikler oluşt
 
 ```
 ```
-   	                                                                                                               Enis Ahmet   TÜRK
+   	                                                                                 Enis Ahmet   TÜRK
    ```
