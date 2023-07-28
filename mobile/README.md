@@ -36,4 +36,4 @@ Komut Satırı Araçları: Node.js, komut satırı araçları ve betikler oluşt
 
 ```
 
-![node](https://.node.PNG)	
+![node](https://.nodejs.PNG)	
