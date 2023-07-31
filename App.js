@@ -4,23 +4,12 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>hello wwworld!</Text>
-      <Text>MERHABAYIN</Text>
-      <Text>MERHABAYIN</Text>
-      <Text>MERHABAYIN</Text>
-      <Text>hello wwworld!</Text>
-      <Text>MERHABAYIN</Text>
-      <Text>MERHABAYIN</Text>
-      <Text>MERHABAYIN</Text>
-      <Text>hello wwworld!</Text>
-      <Text>MERHABAYIN</Text>
-      <Text>MERHABAYIN</Text>
-      <Text>MERHABAYIN</Text>
-      <Text>hello wwworld!</Text>
-      <Text>MERHABAYIN</Text>
-      <Text>MERHABAYIN</Text>
-      <Text>MERHABAYIN</Text>
-      <StatusBar style="cover" />s
+
+      <Text>eaturk</Text>
+      <Text>turkea</Text>
+      <Text>eaturk</Text>
+      <Text>turk</Text>
+      <StatusBar style="cover" />
     </View>
   );
 }
@@ -28,8 +17,7 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#8b658b',
+    backgroundColor: '#97ffff',
     alignItems: 'center',
     justifyContent: 'center',
-  },
-});
+  }})
