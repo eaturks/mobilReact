@@ -20,8 +20,7 @@ export default function App() {
       <Text>MERHABAYIN</Text>
       <Text>MERHABAYIN</Text>
       <Text>MERHABAYIN</Text>
-      <StatusBar style="cover" />
-      
+      <StatusBar style="cover" />s
     </View>
   );
 }
