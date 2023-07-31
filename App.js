@@ -5,10 +5,12 @@ export default function App() {
   return (
     <View style={styles.container}>
 
-      <Text>eaturk</Text>
-      <Text>turkea</Text>
-      <Text>eaturk</Text>
-      <Text>turk</Text>
+      <Text style={{color: '#ff1493', fontSize:30}}>EATURK</Text>
+      <Text style={{color: '#000000', fontSize:30}}>EATURKS</Text>
+      <Text style={{color: '#00cd00', fontSize:30}}>TURKSS</Text>
+      
+
+      
       <StatusBar style="cover" />
     </View>
   );
