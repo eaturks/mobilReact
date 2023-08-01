@@ -2,16 +2,20 @@ import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
 
 export default function App() {
+
+
   return (
     <View style={styles.container}>
-
-      <Text style={{color: '#ff1493', fontSize:30}}>EATURK</Text>
-      <Text style={{color: '#000000', fontSize:30}}>EATURKS</Text>
-      <Text style={{color: '#00cd00', fontSize:30}}>TURKSS</Text>
-      <Text style={{color: '#ff1493', fontSize:30}}>EATURK</Text>
-      <Text style={{color: '#000000', fontSize:30}}>EATURKS</Text>
-      <Text style={{color: '#00cd00', fontSize:30}}>TURKSS</Text>
+      <View style={styles.top}></View>
+      <View style={styles.center}></View>
+      <View style={styles.bottom}></View>
       
+     
+       
+       
+      
+      
+     
 
       
       <StatusBar style="cover" />
@@ -21,8 +25,35 @@ export default function App() {
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1,
+    //width: '100%',
+    //height :'100%',
+    flex:1,
     backgroundColor: '#97ffff',
     alignItems: 'center',
     justifyContent: 'center',
-  }})
+    flexDirection:'column'
+  },
+  top:{
+
+flex:4,
+width:'100%',
+backgroundColor:'blue',
+
+  },
+
+  center: {
+    
+    width:250,
+flex:1,
+backgroundColor:'purple',
+
+  },
+
+  bottom:{
+    flex:1,
+    width:'100%',
+    backgroundColor:'gray',
+  }
+
+
+})
